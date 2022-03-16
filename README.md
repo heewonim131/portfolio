@@ -17,8 +17,8 @@
 
 </br>
 
-## Project
-### [What's your game?](https://github.com/heewonim131/whats-your-game)
+## Projects
+### 1. [What's your game?](https://github.com/heewonim131/whats-your-game)
 >게임 리뷰 공유 서비스 (개인 프로젝트)  
 >개발 기간: 2022.02.03 ~ 진행중  
 >  
@@ -27,3 +27,12 @@
 >MySQL / Spring Security / OAuth2.0  
 >  
 >[프로젝트 상세 설명](https://github.com/heewonim131/whats-your-game) 참고
+
+### 2. [어바웃펫](https://github.com/heewonim131/about-pet)
+>반려동물 생활 플랫폼 어바웃펫 클론 코딩 (팀 프로젝트)
+>개발 기간: 2021.05.26 ~ 2021.08.13
+>
+>기술 스택:
+>Java 8 / Spring Legacy / Maven / MyBatis / Oracle
+>
+>[프로젝트 상세 설명](https://github.com/heewonim131/about-pet) 참고
