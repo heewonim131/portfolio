@@ -6,7 +6,7 @@
 ## Intro
 - 쌍용교육센터 Java 교육 수료
 - SQLD(SQL 개발자) 자격증 보유
-- Spring Framework 프로젝트 경험
+- JSP/Servlet, Spring Boot 프로젝트 경험
 
 </br>
 
@@ -35,6 +35,6 @@
 >개발 기간: 2021.05.26 ~ 2021.08.13  
 >  
 >기술 스택:  
->Java 8 / Spring Legacy / Maven / MyBatis / Oracle  
+>Java 8 / JDBC / Oracle  
 >  
 >[프로젝트 상세 설명](https://github.com/heewonim131/about-pet) 참고  
