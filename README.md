@@ -20,7 +20,7 @@
 ## Projects
 ### 1. [What's your game?](https://github.com/heewonim131/whats-your-game)
 >게임 리뷰 공유 서비스 (개인 프로젝트)  
->개발 기간: 2022.02.03 ~ 진행중  
+>개발 기간: 2022.02.03 ~ 2022.04.06  
 >  
 >기술 스택:  
 >Java 11 / Spring Boot / Gradle / Spring Data JPA  
