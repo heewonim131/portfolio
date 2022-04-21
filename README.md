@@ -23,8 +23,8 @@
 >개발 기간: 2022.02.03 ~ 2022.04.06  
 >  
 >기술 스택:  
->Java 11 / Spring Boot / Gradle / Spring Data JPA  
->MySQL / Spring Security / OAuth2.0 / AWS  
+>Java 11 / Spring Boot / Gradle / Spring Data JPA / Lombok  
+>MySQL / Spring Security / OAuth2.0 / AWS / Travis CI  
 >  
 >[프로젝트 상세 설명](https://github.com/heewonim131/whats-your-game) 참고
 
