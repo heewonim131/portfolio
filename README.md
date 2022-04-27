@@ -30,11 +30,22 @@
 
 ---
 
-### 2. [어바웃펫](https://github.com/heewonim131/about-pet)
+### 3. [어바웃펫-Spring](https://github.com/heewonim131/about-pet-spring)
 >반려동물 생활 플랫폼 어바웃펫 클론 코딩 (팀 프로젝트)  
->개발 기간: 2021.05.26 ~ 2021.08.13  
+>개발 기간: 2021.07.26 ~ 2021.08.13  
+>  
+>기술 스택:  
+>Java 8 / Spring / Maven / MyBatis / Oracle  
+>  
+>[프로젝트 상세 설명](https://github.com/heewonim131/about-pet-spring) 참고  
+
+---
+
+### 3. [어바웃펫-JSP/Servlet](https://github.com/heewonim131/about-pet-jsp)
+>반려동물 생활 플랫폼 어바웃펫 클론 코딩 (팀 프로젝트)  
+>개발 기간: 2021.05.26 ~ 2021.07.23  
 >  
 >기술 스택:  
 >Java 8 / JDBC / Oracle  
 >  
->[프로젝트 상세 설명](https://github.com/heewonim131/about-pet) 참고  
+>[프로젝트 상세 설명](https://github.com/heewonim131/about-pet-jsp) 참고  
